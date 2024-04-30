@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "horariociego-rtdb": {
+      "hosting": {
+        "app": [
+          "horariociego-rtdb"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "horariociego-rtdb"
+  }
+}
