@@ -1,0 +1,7 @@
+{
+  "name": "sumativaHorarioCiego",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
